@@ -8,7 +8,7 @@ pruning (R=3), and draw contempt −10 (side to move values a draw at
 −10cp, so it plays on instead of settling for repetition).
 
 Packed with `makefun compress` (LZMA payload, stdlib only). `main.py`
-is the whole engine: 4,092 bytes as committed.
+is the whole engine: 4,095 bytes as committed.
 
 ## Strength (local practice trials, 8 games each vs house engines)
 
